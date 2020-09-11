@@ -1,6 +1,6 @@
-.iml
+ +*.iml
 .idea
 target
-.xml
+*.xml
 !pom.xml
-.class
+*.class
